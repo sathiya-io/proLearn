@@ -1,4 +1,4 @@
-<? php
+
    <div id="footer">
         <div class="container">
             <a href="#"><span class="social social-facebook"></span></a>

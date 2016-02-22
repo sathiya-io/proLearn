@@ -1,4 +1,3 @@
-<? php
 <html>
     <head>
         <meta charset="UTF-8" />
@@ -10,6 +9,7 @@
         <script type="text/javascript" src="source/bootstrap/js/npm.js"></script> 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
         <script type="text/javascript" src="source/bootstrap/js/script.js"></script> 
+
         <!--[if gte IE 9]>
             <link rel="stylesheet" type="text/css" href="css/ie9.css" />
         <![endif]-->

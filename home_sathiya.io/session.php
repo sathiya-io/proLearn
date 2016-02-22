@@ -33,7 +33,7 @@ if(isset($_POST['login-submit'])) {
             if (($loginUsrStatus == 1))
             {
                 $login_session = $loginUsr;
-                if(!isset($login_session)){
+                if(!isset($login_user)){
                 	$conn=null;
                		header ("Location: home.php");
             }       
@@ -47,5 +47,6 @@ if(isset($_POST['login-submit'])) {
 
     }
     $conn=null;
+}
 }
 ?>
