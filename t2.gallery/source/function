@@ -1,0 +1,13 @@
+(function(){
+    var attrib = document.getElementById("top");
+    attrib.getAttribute("data-page-type");
+
+})(jQuery);
+
+
+var variable_1 = undefined;
+
+window.onload = function(){
+    variable_1 = document.getElementById("storage").getAttribute("data-variable-one");
+    variable_2 = document.getElementById("storage").getAttribute("data-variable-two");
+}

@@ -1,0 +1,40 @@
+<html>
+   <head>
+      <title>Team Members</title>
+   </head>
+   <body>
+      <p>Team Members Data</p>
+      <form method="POST" action="php/teamMemberStore.php">
+         <input type="hidden" name="team_members" value="true">
+         <table>
+            <tr>
+               <td width="27%">Member Name:</td>
+               <td width="73%"><input type="text" name="memberName" size="20"></td>
+            </tr>
+            <tr>
+               <td width="27%">Member Role</td>
+               <td width="73%"><input type="text" name="memberRole" size="73"></td>
+            </tr>
+            <tr>
+               <td width="27%">Profile Picture</td>
+               <td width="73%"><input type="text" name="profPic" size="20"></td>
+            </tr>
+            <tr>
+               <td width="27%">Info Heading</td>
+               <td width="73%"><input type="text" name="infoHeading" size="73"></td>
+            </tr>
+            <tr>
+               <td width="27%">Info Description</td>
+               <td width="73%"><input type="text" name="infoDesc" size="73"></td>
+            </tr>
+            <!-- <tr>
+               <td width="27%">XML File Name</td>
+               <td width="73%"><input type="text" name="xmlfileName" size="20"></td>
+            </tr> -->
+         </table>
+         <p align="center">
+            <input type="submit" value="Submit" name="B1">
+         </p>
+      </form>
+   </body>
+</html>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<team>
+	<member id='avi'>
+		<image>img/team/Avi.jpg</image>
+		<name>Avi</name>
+		<role>Photographer</role>
+		<headHighlight>Time to</headHighlight>
+		<head>capture..</head>
+		<info>Seeking your happiness and will share your memory as digital format.</info>
+		<social>
+			<social:facebook url="" />
+			<social:twitter url="" />
+			<social:skype url="" />
+			<social:pinterest url="" />
+		</social>
+	</member>
+	<member id='sathya'>
+		<image>img/team/Deepi.jpg</image>
+		<name>Sathya</name>
+		<role>Fashion Designer</role>
+		<headHighlight>Sync with</headHighlight>
+		<head>real nature</head>
+		<info>We never used to change the real looks and colors, we have a different vision and perspective of nature.</info>
+		<social>
+			<social:facebook url="" />
+			<social:twitter url="" />
+			<social:skype url="" />
+			<social:pinterest url="" />
+		</social>
+	</member>
+	<member id='sathiya'>
+		<image>img/team/Sathiya.jpg</image>
+		<name>Sathiya</name>
+		<role>Photograper</role>
+		<headHighlight>Chooo Cute!</headHighlight>
+		<head>click..</head>
+		<info>The shutter is always open to capture you, because its never happen again</info>
+		<social>
+			<social:facebook url="" />
+			<social:twitter url="" />
+			<social:skype url="" />
+			<social:pinterest url="" />
+		</social>
+	</member>
+</team>
+

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<portfolio>
+	<gallery id='Couple'>
+		<galleryindex>1</galleryindex>
+		<image>img/portfolio/couple_01.png</image>
+		<note>Cute moments with your loved one...!</note>
+		<link>/projects/couple.php</link>
+	</gallery>
+	<gallery id='Marriage'>
+		<galleryindex>2</galleryindex>
+		<image>img/portfolio/marriage_01.png</image>
+		<note>Another phase of your life.</note>
+		<link>/projects/marriage.php</link>
+	</gallery>
+	<gallery id='Candid'>
+		<galleryindex>3</galleryindex>
+		<image>img/portfolio/candid.png</image>
+		<note>Expression of your pure love</note>
+		<link>/projects/candid.php</link>
+	</gallery>
+	<gallery id='Events'>
+		<galleryindex>5</galleryindex>
+		<image>img/portfolio/events_01.png</image>
+		<note>It may happen again but you never see the authentic moments</note>
+		<link>/projects/events.php</link>
+	</gallery>
+	<gallery id='Infants &amp; Kids'>
+		<galleryindex>6</galleryindex>
+		<image>img/portfolio/kinds.png</image>
+		<note>Seems like sunrise with fresh start</note>
+		<link>/projects/infants_kids.php</link>
+	</gallery>
+	<gallery id='Produts'>
+		<galleryindex>7</galleryindex>
+		<image>img/portfolio/products.png</image>
+		<note>Exploring the features and new perspective of the products</note>
+		<link>/projects/products.php</link>
+	</gallery>
+	<gallery id='Portrait'>
+		<galleryindex>8</galleryindex>
+		<image>img/portfolio/portrait.png</image>
+		<note>Make yourself very special and make others attention!</note>
+		<link>/projects/portrait.php</link>
+	</gallery>
+	<gallery id='Portrait'>
+		<galleryindex>4</galleryindex>
+		<image>img/portfolio/portrait.png</image>
+		<note>Make yourself very special and make others attention!</note>
+		<link>/projects/portrait.php</link>
+	</gallery>
+</portfolio>

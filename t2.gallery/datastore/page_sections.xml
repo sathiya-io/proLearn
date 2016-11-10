@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catagory>
+	<sections id='about-us'>
+		<heading>T2 Studios</heading>
+		<headingspan>About</headingspan>
+		<caption>WE ARE HERE TO CAPTURE YOUR MOMENTS</caption>
+		<description>&quot;Relive your moments with magical experience. A young passionate and artistic crew who loves to exploit.&lt;br&gt;A techinically sound team on and off set. Our priority is to give warm and comfortable ambiance&quot;</description>
+	</sections>
+	<sections id='service'>
+		<heading>Our</heading>
+		<headingspan>Service</headingspan>
+		<caption>WELL COVERED AND EFFICIENT</caption>
+		<description>/projects/marriage.php</description>
+	</sections>
+	<sections id='portfolio'>
+		<heading>Our</heading>
+		<headingspan>Portfolio</headingspan>
+		<caption>CHECK IT OUT</caption>
+		<description>/projects/candid.php</description>
+	</sections>
+	<sections id='team'>
+		<heading>Our</heading>
+		<headingspan>Family</headingspan>
+		<caption>GET TO KNOW</caption>
+		<description>/projects/events.php</description>
+	</sections>
+	<sections id='client'>
+		<heading>OUr</heading>
+		<headingspan>Clients</headingspan>
+		<caption>TESTIMONIAL</caption>
+		<description>/projects/infants_kids.php</description>
+	</sections>
+	<sections id='contact-us'>
+		<heading>Us</heading>
+		<headingspan>Contact</headingspan>
+		<caption>BUZZ</caption>
+		<description>/projects/products.php</description>
+	</sections>
+</portfolio>
